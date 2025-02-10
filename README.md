@@ -5,7 +5,7 @@
 ### 👥 **Group Members:**  
 - Shubh Jalui - 16010122072 
 - Manas Mapuskar - 16010122105
-- Ninad Marathe - 16010122
+- Ninad Marathe - 16010122106
 ---  
 ## 🛠 **Introduction**  
 ### 🐧 **Kali Linux:**  
